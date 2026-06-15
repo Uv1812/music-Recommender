@@ -18,9 +18,6 @@ __pycache__/
 .vscode/
 
 # Streamlit & ML specific
-*.pkl
-*.joblib
-*.h5
 *.model
 data/
 models/

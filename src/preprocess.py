@@ -25,7 +25,7 @@ nltk.download('stopwords')
 
 # Load and sample dataset
 try:
-    df = pd.read_csv("spotify_millsongdata.csv").sample(10000)
+    df = pd.read_csv("spotify_millsongdata.csv").sample(3000, random_state=42)
     logging.info("✅ Dataset loaded and sampled: %d rows", len(df))
 except Exception as e:
     logging.error("❌ Failed to load dataset: %s", str(e))
