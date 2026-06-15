@@ -1,0 +1,20 @@
+[2025-08-27 20:14:20,985] INFO - 🔁 Loading data...
+[2025-08-27 20:14:20,985] ERROR - ❌ Failed to load required files: [Errno 2] No such file or directory: 'df_cleaned.pkl'
+[2025-08-27 20:14:57,555] INFO - 🔁 Loading data...
+[2025-08-27 20:14:57,555] ERROR - ❌ Failed to load required files: [Errno 2] No such file or directory: 'df_cleaned.pkl'
+[2025-08-28 09:30:13,449] INFO - 🔁 Loading data...
+[2025-08-28 09:30:15,251] INFO - ✅ Data loaded successfully.
+[2025-08-28 09:30:28,310] INFO - 🎵 Recommending songs for: 'A Celebration'
+[2025-08-28 09:30:28,370] INFO - ✅ Top 5 recommendations ready.
+[2025-08-28 09:31:07,130] INFO - 🎵 Recommending songs for: '45Th Floor'
+[2025-08-28 09:31:07,184] INFO - ✅ Top 5 recommendations ready.
+[2025-08-28 09:46:54,668] INFO - 🔁 Loading data...
+[2025-08-28 09:46:56,090] INFO - ✅ Data loaded successfully.
+[2025-08-28 09:47:06,128] INFO - 🎵 Recommending songs for: ''Deed I Do'
+[2025-08-28 09:47:06,189] INFO - ✅ Top 5 recommendations ready.
+[2025-11-17 08:39:11,121] INFO - 🔁 Loading data...
+[2025-11-17 08:39:12,440] ERROR - ❌ Failed to load required files: numpy.dtype size changed, may indicate binary incompatibility. Expected 96 from C header, got 88 from PyObject
+[2026-06-15 10:39:20,100] INFO - 🔁 Loading data...
+[2026-06-15 10:39:21,820] INFO - ✅ Data loaded successfully.
+[2026-06-15 10:39:31,744] INFO - 🎵 Recommending songs for: 'Across The Line'
+[2026-06-15 10:39:31,765] INFO - ✅ Top 5 recommendations ready.
