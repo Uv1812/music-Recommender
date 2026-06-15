@@ -1,11 +1,10 @@
-@"
+
 # Music Recommender System 🎵
 
 A Streamlit-based music recommendation app using [your method: Spotify API / Collaborative Filtering / etc.]
 
 ## Features
-- Song recommendations
-- ...
+- Song recommendations based on selected song 
 
 ## How to Run
 
