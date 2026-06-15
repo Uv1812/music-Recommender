@@ -1,4 +1,0 @@
-2025-10-06 23:09:59,652 - INFO - Loading emotion dataset from data/emotion_dataset.csv
-2025-10-06 23:09:59,668 - INFO - Vectorizing text data with TF-IDF
-2025-10-06 23:09:59,692 - INFO - Training LinearSVC model
-2025-10-06 23:09:59,742 - INFO - Model and vectorizer saved successfully to models/
