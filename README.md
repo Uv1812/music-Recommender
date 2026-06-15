@@ -3,6 +3,10 @@
 
 A Streamlit-based music recommendation app using [your method: Spotify API / Collaborative Filtering / etc.]
 
+## Screenshot
+
+![App Interface](https://github.com/user-attachments/assets/e2d016d4-87d6-47c3-aa53-b44482e32bd6)
+
 ## Features
 - Song recommendations based on selected song 
 
